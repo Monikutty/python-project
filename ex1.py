@@ -1,6 +1,6 @@
-a=int(input("Enter a value:"))
-if(a%2==0):
-  print("even")
+a=int(input(""))
+if(a>=0):
+  print("positive")
 else:
-  print("odd")
+  print("negative")
   
