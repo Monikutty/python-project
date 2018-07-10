@@ -5,7 +5,7 @@ while(a>1):
   b=a%10
   sum+=b**3
   temp=temp/10
-if(temp==num):
+if(sum==num):
   print("yes")
 else:
   print("no")
