@@ -1,0 +1,32 @@
+a=int(input())
+for i in range(0,10):
+    if(a==1):
+      print("One")
+      break
+    elif(a==2):
+      print("Two")
+      break
+    elif(a==3):
+      print("Three")
+      break
+    elif(a==4):
+      print("Four")
+      break
+    elif(a==5):
+      print("Five")
+      break
+    elif(a==6):
+      print("Six")
+      break
+    elif(a==7):
+      print("Seven")
+      break
+    elif(a==8):
+      print("Eight")
+      break
+    elif(a==9):
+      print("Nine")
+      break
+    elif(a==10):
+      print("Ten")
+      break
